@@ -1,0 +1,28 @@
+{
+  "apartamentos": [
+    {
+      "nome": "Condomínio Edifício Quartier Latin",
+      "url_foto": "https://resizedimgs.zapimoveis.com.br/crop/420x236/vr.images.sp/f68e0c6e992efaaf958536cf548a0eb4.jpg",
+      "cep": "03311-001",
+      "logradouro": "Rua Apucarana",
+      "numero": "1301",
+      "complemento": "Apto 21",
+      "bairro": "Tatuapé",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "id": 2
+    },
+    {
+      "nome": "Edifício Castilha Plaza",
+      "url_foto": "https://scontent.123i.com.br/photo/catalog/fe963cfffd0c9d8e16b383d929b705e7/images/500x730/4f0e34e282ccb235714ce827a8b1a9c5.jpg",
+      "cep": "03335-080",
+      "logradouro": "Rua Alonso Calhamares",
+      "numero": "255",
+      "complemento": "Apto 42",
+      "bairro": "Vila Regente Feijó",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "id": 3
+    }
+  ]
+}
